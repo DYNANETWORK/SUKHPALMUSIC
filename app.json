@@ -1,8 +1,8 @@
 {
-  "name": "SolidMusic Bot",
-  "description": "Open Source bot to stream media trough Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
-  "keywords": ["solidmusic", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
-  "repository": "https://github.com/DoellBarr/solidmusic",
+  "name": "SUKHPALMUSIC",
+  "description": "OPEN SOURCE CODE",
+  "keywords": ["SUKHPALMUSIC", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
+  "repository": "https://github.com/SUKHPAL443/SUKHPALMUSIC",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -26,19 +26,19 @@
       "required": true
     },
     "SUPPORT": {
-      "description": "your group support link, can use private or public group, example https://t.me/solidprojects_chat",
+      "description": "your group support link, can use private or public group, example https://t.me/MAMBA_X_SUPPORT",
       "required": false,
-      "value": "https://t.me/solidprojects_chat"
+      "value": "https://t.me/MAMBA_X_SUPPORT"
     },
     "CHANNEL": {
-      "description": "your channel support link, can use private or public channel, example https://t.me/solidprojects",
+      "description": "your channel support link, can use private or public channel, example https://t.me/MAMBA_X_SUPPORT",
       "required": false,
-      "value": "https://t.me/solidprojects"
+      "value": "https://t.me/MAMBA_X_SUPPORT"
     },
     "UPSTREAM_REPO": {
       "description": "fill it if you fork from original repo",
       "required": false,
-      "value": "https://github.com/DoellBarr/solidmusic"
+      "value": "https://github.com/SUKHPAL443/SUKHPALMUSIC"
     }
   },
   "buildpacks": [
